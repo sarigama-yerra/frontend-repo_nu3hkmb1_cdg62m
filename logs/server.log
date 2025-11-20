@@ -1,0 +1,11 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 215 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.73.249:3000/
+2:50:22 PM [vite] ✨ new dependencies optimized: lucide-react
+2:50:22 PM [vite] ✨ optimized dependencies changed. reloading
